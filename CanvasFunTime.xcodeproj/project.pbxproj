@@ -14,6 +14,7 @@
 		5C2908D31D2589BC00FCF9CC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5C2908D11D2589BC00FCF9CC /* LaunchScreen.storyboard */; };
 		5C2908DE1D2589BC00FCF9CC /* CanvasFunTimeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C2908DD1D2589BC00FCF9CC /* CanvasFunTimeTests.swift */; };
 		5C2908E91D2589BC00FCF9CC /* CanvasFunTimeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C2908E81D2589BC00FCF9CC /* CanvasFunTimeUITests.swift */; };
+		5C2908F71D258A1F00FCF9CC /* CanvasViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C2908F61D258A1F00FCF9CC /* CanvasViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		5C2908E41D2589BC00FCF9CC /* CanvasFunTimeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CanvasFunTimeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5C2908E81D2589BC00FCF9CC /* CanvasFunTimeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CanvasFunTimeUITests.swift; sourceTree = "<group>"; };
 		5C2908EA1D2589BC00FCF9CC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5C2908F61D258A1F00FCF9CC /* CanvasViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CanvasViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				5C2908C81D2589BC00FCF9CC /* AppDelegate.swift */,
 				5C2908CA1D2589BC00FCF9CC /* ViewController.swift */,
 				5C2908CC1D2589BC00FCF9CC /* Main.storyboard */,
+				5C2908F61D258A1F00FCF9CC /* CanvasViewController.swift */,
 				5C2908CF1D2589BC00FCF9CC /* Assets.xcassets */,
 				5C2908D11D2589BC00FCF9CC /* LaunchScreen.storyboard */,
 				5C2908D41D2589BC00FCF9CC /* Info.plist */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5C2908CB1D2589BC00FCF9CC /* ViewController.swift in Sources */,
+				5C2908F71D258A1F00FCF9CC /* CanvasViewController.swift in Sources */,
 				5C2908C91D2589BC00FCF9CC /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
